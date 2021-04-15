@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity() {
                         4 -> R.drawable.four
                         5 -> R.drawable.five
                         6 -> R.drawable.six
-                        else -> R.drawable.ic_launcher_foreground
+                        else -> R.drawable.sus
                     } )
 
                 for (i in 270..359) {
